@@ -1,4 +1,4 @@
-
+/*Prueba Comit*/
 GO
 /****** Object:  Table [dbo].[Rol]    Script Date: 4/13/2019 3:21:39 PM ******/
 SET ANSI_NULLS ON
